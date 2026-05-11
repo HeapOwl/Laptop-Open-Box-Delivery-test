@@ -7,6 +7,8 @@ A Windows-only diagnostic utility for laptop inspection and functional testing.
 - Dead pixel screen validation
 - System information summary
 - Display resolution and refresh rate check
+- Camera and microphone test
+- RAM stress test
 - 2-minute CPU stress test
 - Speaker tone playback
 - Battery wear reporting
